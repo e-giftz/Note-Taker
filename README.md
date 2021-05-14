@@ -17,7 +17,6 @@ As the user startst to write the new entry, writing out the title and the text, 
 * URL of GitHub repository containing the code: hhttps://github.com/e-giftz/Note-Taker
 
 ## Screenshots  of the App
-The video walkthrough  of the Team Profile app can be found [here](/Develop/assets/Team-profile-walkthrough.mp4)
-The contd video showing the unit tests running can be found [here](/Develop/assets/Team-profile-test-walkthrough.mp4)
-
-![Team Profile Webpage Display ](/Develop/assets/Team-profile-webpage.png)
+![Note taker Landing Page](/Develop/assets/notetaker-landingpage.png)
+![Note taker Main Page](/Develop/assets/notetaker-notespage.png)
+![Note taker Write Display](/Develop/assets/notetaker-notesdetail.png)
