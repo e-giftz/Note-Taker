@@ -14,10 +14,10 @@ As the user startst to write the new entry, writing out the title and the text, 
 
 
 ## Links to application
-* URL of GitHub repository containing the code: hhttps://github.com/e-giftz/Note-Taker
+* URL of GitHub repository containing the code: https://github.com/e-giftz/Note-Taker
 * URL to deployed application on Heroku:
 
 ## Screenshots  of the App
-![Note taker Landing Page](/Develop/assets/notetaker-landingpage.png)
-![Note taker Main Page](/Develop/assets/notetaker-notespage.png)
-![Note taker Write Display](/Develop/assets/notetaker-notesdetail.png)
+![Note taker Landing Page](/demo_app/notetaker-landingpage.png)
+![Note taker Main Page](/demo_app/notetaker-notespage.png)
+![Note taker Write Display](/demo_app/notetaker-notesdetail.png)
