@@ -15,6 +15,7 @@ As the user startst to write the new entry, writing out the title and the text, 
 
 ## Links to application
 * URL of GitHub repository containing the code: hhttps://github.com/e-giftz/Note-Taker
+* URL to deployed application on Heroku:
 
 ## Screenshots  of the App
 ![Note taker Landing Page](/Develop/assets/notetaker-landingpage.png)
